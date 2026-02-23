@@ -1,16 +1,16 @@
  # PowerShell #
 
-PowerShell Logo goes here
+![alt text](PowerShell_5.0_icon-1.png)
 
-About PowerShell
+## About PowerShell ##
 
-<b>PowerShell</b> is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the .NET framework, <b>PowerShell</b> is both a <i><b>command-line tool</b></i> and <i><b>a scripting environment</b></i>, making it a versatile tool for programmers and system administrators.
+<a href="https://docs.microsoft.com/en-us/powershell/">PowerShell</a> is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the <a href="https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview">.NET framework</a>, <b>PowerShell</b> is both a <i><b>command-line tool</b></i> and <i><b>a scripting environment</b></i>, making it a versatile tool for programmers and system administrators.
 
 
  "PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project."
  
  
-<i>Source: from the interview with Jeffrey Snover, PowerShell Inventor</i>
+<i>Source: from the <a href="https://evrone.com/blog/jeffrey-snover-interview">interview</a> with Jeffrey Snover, PowerShell Inventor</i>
 
 ## Why Learn PowerShell? ##
  PowerShell is an essential tool for:
@@ -75,29 +75,27 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
 
 #### Windows PowerShell Integrated Scripting Environment (ISE) ####
 
-- <b>What it is: A built-in editor for Windows PowerShell (versions 1.0 to 5.1).
-Features:
-Syntax highlighting.
-Debugging tools (breakpoints, step-through execution).
-Integrated console for testing scripts.
-Multi-tab interface for working with multiple scripts.
-Best for: Beginners and users working on older versions of PowerShell.
+- <b>What it is</b>: A built-in editor for Windows PowerShell (versions 1.0 to 5.1).
+- <b>Features</b>:
+    - Syntax highlighting.
+    - Debugging tools (breakpoints, step-through execution).
+    - Integrated console for testing scripts.
+    - Multi-tab interface for working with multiple scripts.
+- <b> Best for</b>: Beginners and users working on older versions of PowerShell.
 
-ISE Image goes here
+![alt text](ISE_panes-1.png)
 
 #### Visual Studio Code (VS Code) ####
 
-What it is: A free, open-source, cross-platform code editor by Microsoft.
-Features:
-Syntax highlighting and IntelliSense for PowerShell.
-Integrated terminal for running scripts.
-Extensions for additional functionality (e.g., PowerShell extension).
-Support for Git and other version control systems.
-Cross-platform (Windows, macOS, Linux).
-Best for: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
+- <b>What it is</b>: A free, open-source, cross-platform code editor by Microsoft.
+- <b?>Features</b?>:
+    - Syntax highlighting and IntelliSense for PowerShell.
+    - Integrated terminal for running scripts.
+    - Extensions for additional functionality (e.g., PowerShell extension).
+    - Support for Git and other version control systems.
+    - Cross-platform (Windows, macOS, Linux).
+- <b>Best for</b>: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
-VSCode Image goes here
+![alt text](vs_code-1.png)
 
-Useful Resources for Learning PowerShell
-Official PowerShell Documentation
-PowerShell GitHub Repository
+
